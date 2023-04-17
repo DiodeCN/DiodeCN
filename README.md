@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://src.diodecn.cn/Marx_and_Engels.jpg" title="马克思和恩格斯">
-    <img src="https://src.diodecn.cn/Marx_and_Engels.jpg" alt="马克思和恩格斯" title="马克思和恩格斯" />
+    <img src="https://src.diodecn.cn/Marx_and_Engels.jpg" alt="马克思和恩格斯" title="马克思和恩格斯" style="width:100%;" />
   </a>
   <br>
 </p>
@@ -20,9 +20,7 @@
 
 <p align="center">
   <a href="https://src.diodecn.cn/transgender_flag.jpg" title="跨性别旗帜">
-    <img src="https://src.diodecn.cn/transgender_flag.jpg" alt="跨性别旗帜" title="跨性别旗帜" />
+    <img src="https://src.diodecn.cn/transgender_flag.jpg" alt="跨性别旗帜" title="跨性别旗帜" style="width:100%;" />
   </a>
   <br>
 </p>
-
-
