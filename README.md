@@ -1,4 +1,4 @@
-### /*A humble Chinese high school sophomore*/
+### *A humble Chinese high school sophomore*
 # Hey Guys! 👋 I'm ElmCose
 
 # I Am Very Hardworking! :muscle:
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/I%20Like-React-white" />
 </p>
 
-# I Am Supporting Them! :pray:
+# I Am Supporting Them! ❤️️
 
 <p align="left">
     <a href="https://src.diodecn.cn/transgender_flag.jpg" title="跨性别旗帜">
