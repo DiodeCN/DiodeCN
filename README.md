@@ -1,5 +1,4 @@
-### Hey Guys!  I'm ElmCose👋
-### *A humble Chinese high school sophomore😋*
+### Hey Guys!  I'm ElmCose👋 &nbsp;&nbsp;  &nbsp;—— A Humble Chinese High School Sophomore😋
 
 
 # I Am Very Hardworking! :muscle:
