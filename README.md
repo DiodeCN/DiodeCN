@@ -20,7 +20,14 @@
     <img src="https://src.diodecn.cn/Marx_and_Engels.jpg" alt="马克思和恩格斯" title="马克思和恩格斯" style="height:150px;" />
   </a>
   <br>
+  
 </p>
+
+
+
+### Nature made a mistake, which I have corrected. -Christine Jorgensen, US Army veteran and public figure
+### The history of all hitherto existing society is the history of class struggles. — Karl Marx, The Communist Manifesto
+---
 
 # I Am An ADHD Patient! 🥹
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
