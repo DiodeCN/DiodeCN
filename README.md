@@ -26,7 +26,7 @@
 
 
 ### Nature made a mistake, which I have corrected. -Christine Jorgensen, US Army veteran and public figure
-### The history of all hitherto existing society is the history of class struggles. — Karl Marx, The Communist Manifesto
+#### The history of all hitherto existing society is the history of class struggles. — Karl Marx, The Communist Manifesto
 ---
 
 # I Am An ADHD Patient! 🥹
