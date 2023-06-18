@@ -8,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiodeCN&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="height:150px;width:360px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiodeCN&layout=compact&theme=transparent" alt="Top Langs" style="height:150px;"/>
   <br />
-  <img src="https://img.shields.io/badge/I%20Approval-AGPLv3-blue" />
-  <img src="https://img.shields.io/badge/I%20Enjoy-Gin-ff69b4" />
-  <img src="https://img.shields.io/badge/I%20Like-React-white" />
 </p>
 
 # I Am Supporting Them! ❤️️
@@ -36,3 +33,5 @@
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
+<img src="https://img.shields.io/badge/I%20Approval-AGPLv3-blue" /> <img src="https://img.shields.io/badge/I%20Enjoy-Gin-ff69b4" /> <img src="https://img.shields.io/badge/I%20Like-React-white" />
