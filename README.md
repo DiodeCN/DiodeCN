@@ -42,3 +42,9 @@
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 <img src="https://img.shields.io/badge/I%20Approval-AGPLv3-blue" /> <img src="https://img.shields.io/badge/I%20Enjoy-Gin-ff69b4" /> <img src="https://img.shields.io/badge/I%20Like-React-white" />
+
+---
+
+# I am busy studying! 😭😭😭
+### Just hold on to it for another year!
+---
