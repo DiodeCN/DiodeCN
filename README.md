@@ -1,4 +1,4 @@
-### Hey Guys!  I'm ElmCose👋  ——A Humble Chinese High School Student😋
+### Hey Guys!  I'm ElmCose👋  —A Humble Chinese High School Student😋
 
 ---
 
@@ -41,10 +41,13 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-<img src="https://img.shields.io/badge/I%20Approval-AGPLv3-blue" /> <img src="https://img.shields.io/badge/I%20Enjoy-Gin-ff69b4" /> <img src="https://img.shields.io/badge/I%20Like-React-white" />
+<img src="https://img.shields.io/badge/I%20Approval-AGPLv3-blue" /> 
+<img src="https://img.shields.io/badge/I%20Enjoy-Gin-ff69b4" /> 
+<img src="https://img.shields.io/badge/I%20Like-React-white" />
 
 ---
 
 # I am busy studying! 😭😭😭
-### Just hold on to it for another year!
+### Just hold on to it for another year? (In fact, I am currently troubled by many trivial matters and can only be limited to being a JK?)
+
 ---
