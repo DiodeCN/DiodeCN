@@ -25,8 +25,8 @@
 
 
 
-### Nature made a mistake, which I have corrected. -Christine Jorgensen, US Army veteran and public figure
-#### The history of all hitherto existing society is the history of class struggles. — Karl Marx, The Communist Manifesto
+#### Thereofore, communism is a clear path for gender abolition, which will create a society that is not based upon the oppression of women and queer people. Through a communist revolutionary movement, we must bring an end to the traditional and oppressive division of reproductive labor, also bringing an end to the negative superstructural effects of gender. Then gender can wither away, becoming a free-flowing individual identity or completely obsolete.
+
 ---
 
 # I Am An ADHD Patient! 🥹
